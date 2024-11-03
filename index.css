@@ -153,8 +153,8 @@ p.what{
 
 .Imac7{
     display: inline-flex;
-    width: 250px;
-    height: 250px;
+    width: 350;
+    height: 400;
 }
 
 
@@ -164,7 +164,7 @@ p.what{
     height: 30px;
     font-size: 20px;
     margin-top: 44px;
-    margin-left: -250px;
+    margin-left: -350px;
     
 }
 
@@ -188,9 +188,9 @@ p.what{
 
 
 .IPhone_16_Pro{
-    width: 250px;
-    height: 250px;
-    padding-left: 50px;
+    width: 350;
+    height: 400;
+    padding-left: 250px;
     display: inline-flex;
 }
 
@@ -201,7 +201,7 @@ p.what{
     height: 30px;
     font-size: 20px;
     margin-top: 44px;
-    margin-left: -250px;
+    margin-left: -350px;
     color: #ffffff;
 }
 
@@ -228,9 +228,9 @@ p.what{
 
 .AppleWatchSeries10{
     display: inline-flex;
-    width: 250px;
-    height: 250px;
-    padding-left: 50px;
+    width: 350;
+    height: 400;
+    padding-left: 230px;
 }
 
 .Apple_Watch_Series_10{
@@ -238,7 +238,7 @@ p.what{
     height: 30px;
     font-size: 20px;
     margin-top: 44px;
-    margin-left: -260px;
+    margin-left: -360px;
     color: #000000;
 }
 .เข้ากับสไตลน์คุณ{
@@ -261,9 +261,9 @@ p.what{
 
 .iPadmini{
     display: inline-flex;
-    width: 250px;
-    height: 250px;
-    padding-left: 60px;
+    width: 350;
+    height: 400;
+    padding-left: 230px;
 }
 
 
@@ -273,7 +273,7 @@ p.what{
     height: 30px;
     font-size: 20px;
     margin-top: 40px;
-    margin-left: -248px;
+    margin-left: -348px;
     color: #000000;
 }
 
@@ -295,3 +295,4 @@ p.what{
     color: #000000;
     font-size: 15px;
 }
+
