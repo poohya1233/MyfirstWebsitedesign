@@ -1,0 +1,298 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Srisakdi:wght@400;700&display=swap');
+
+
+header {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+
+body{
+    margin: auto;
+    font-family: Kanit;
+}
+
+.topmenu {
+    display: inline-flex;
+    text-indent: 30px;
+    font-size: 30px;
+    max-height: 100px;
+    align-items: center;
+    margin-top: -10px;
+    margin-bottom: -20px;
+    
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+nav.lll{
+    position: inherit;
+    text-align: center;
+    background-color: rgb(221, 221, 221);
+    font-size: large;
+    height: 46px;
+    align-self:baseline;
+    box-shadow: 0px 20px 15px 0px rgba(0, 0, 0, 0.274);  
+    
+}
+
+a.more{
+    color: blue;
+}
+
+p.NEWSTORE {
+    padding-right: 30px;
+}
+
+img.แว่น{
+    margin-top: 10px;
+    width: 44px;
+    height: 44px;
+}
+
+
+img.ตระกร้า{
+    margin-top: 5px;
+    width: 46x;
+    height: 46px;
+}
+
+
+
+p.what{
+    padding-top: 12px;
+}
+
+
+.topdis{
+    font-style: normal;
+    display:inline-flex;
+    align-content: center;
+    font-size: 40px;
+    max-height: 100px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.store{
+    font-weight: bold;
+}
+
+
+.AA{
+    text-indent: 13px;
+}
+
+.BB{
+    margin-left: -499px;
+    padding-top: 60px;
+}
+
+
+
+
+.IDll{
+    display: flex;
+    max-height: 100px;
+    margin-left: 160px;
+    margin-top: 100px;
+    font-size:20px;
+}
+
+
+
+.mac{
+    margin-right: 60px;
+    text-align: center;
+}
+
+
+.IPhone{
+    margin-right: 60px;
+    text-align: center;
+}
+
+
+.IPad{
+    margin-right: 60px;
+    text-align: center;
+}
+
+.Apple_Watch{
+    margin-right: 60px;
+    text-align: center;
+}
+
+
+.AirPods{
+    margin-right: 60px;
+    text-align: center;
+}
+
+.อุปกรณ์เสริม{
+    margin-right: 60px;
+    text-align: center;
+}
+
+
+.new{
+    margin-top: 200px;
+    margin-left: 160px;
+    font-size: 20px;
+}
+
+
+.newproduct{
+    display: inline-flex;
+}
+
+.Imac7{
+    display: inline-flex;
+    width: 350;
+    height: 400;
+}
+
+
+
+.imac7{
+    font-weight: bold;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 44px;
+    margin-left: -350px;
+    
+}
+
+
+.สุดล่ำ_แห่งชิด_M1{
+    font-weight: 300;
+    margin-left: -55px;
+    margin-top: 80px;
+    font-size: 15px;
+    max-width: 8888px;
+}
+
+
+.startat{
+    font-weight: 200;
+    margin-left: -99px;
+    margin-top: 100px;
+    font-size: 15px;
+    max-width: 8888px;
+}
+
+
+.IPhone_16_Pro{
+    width: 350;
+    height: 400;
+    padding-left: 250px;
+    display: inline-flex;
+}
+
+
+
+.iPhone_16_Pro{
+    font-weight: bold;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 44px;
+    margin-left: -350px;
+    color: #ffffff;
+}
+
+
+.ที่สุดของ_iPhone{
+    max-width: 1000%;
+    font-weight: 300;
+    margin-left: -125px;
+    margin-top: 80px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+
+.เริ่มต้นที่_50000_บาท{
+    font-weight: 100;
+    margin-left: -105px;
+    margin-top: 100px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+
+
+.AppleWatchSeries10{
+    display: inline-flex;
+    width: 350;
+    height: 400;
+    padding-left: 230px;
+}
+
+.Apple_Watch_Series_10{
+    font-weight: bold;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 44px;
+    margin-left: -360px;
+    color: #000000;
+}
+.เข้ากับสไตลน์คุณ{
+    max-width: 1000%;
+    font-weight: 300;
+    margin-left: -203px;
+    margin-top: 80px;
+    color: #000000;
+    font-size: 15px;
+}
+
+
+.เริ่มต้นท40000บาท{
+    font-weight: 100;
+    margin-left: -105px;
+    margin-top: 100px;
+    color: #000000;
+    font-size: 15px;
+}
+
+.iPadmini{
+    display: inline-flex;
+    width: 350;
+    height: 400;
+    padding-left: 230px;
+}
+
+
+
+.iPad_mini{
+    font-weight: bold;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: -348px;
+    color: #000000;
+}
+
+
+.สิ่งที่คุณต้องมี{
+    max-width: 1000%;
+    font-weight: 350;
+    margin-left: -90px;
+    margin-top: 79px;
+    color: #000000;
+    font-size: 15px;
+}
+
+
+.เริ่มต้นที่70900บาท{
+    font-weight: 200;
+    margin-left: -85px;
+    margin-top: 100px;
+    color: #000000;
+    font-size: 15px;
+}
+
